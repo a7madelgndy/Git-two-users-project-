@@ -8,6 +8,7 @@ struct Calculator {
     }
     //haidy's part 
     func sub (n1:Int , n2:Int)->Int {
+        return n2 - n1 
         
     }
 }
