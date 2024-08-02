@@ -11,4 +11,8 @@ struct Calculator {
         return n2 - n1 
         
     }
+    //conflict part (ahmed)
+    func print()->void {
+        print(n1+n2)
+    }
 }
